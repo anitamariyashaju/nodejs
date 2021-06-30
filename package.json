@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "scripts": {},
+    "devDependencies": {
+        "nodemon": "^2.0.8"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "joi": "^17.4.0"
+    }
+}
